@@ -1,0 +1,20 @@
+.background-body {
+    background-color: rgb(255, 222, 178);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+.code-file {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+.file-select {
+    margin-top: 30px;
+    margin-left: 25%;
+}
